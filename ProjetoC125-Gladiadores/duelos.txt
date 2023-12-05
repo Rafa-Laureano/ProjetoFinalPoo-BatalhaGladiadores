@@ -1,0 +1,36 @@
+Iniciando batalha no Arena de Pula
+Batiatus x Claudius Glaber
+Spartacus x Gnaeus
+O Gladiador Gnaeus perdeu a batalha!
+O Gladiador Spartacus evolui para Evoluiu para varro escravo nivel 2
+ 
+Iniciando batalha no Arena de Arles
+Claudius Glaber x Tiberius
+Priscus x Oenomaus
+O Gladiador Oenomaus perdeu a batalha!
+O Gladiador Priscus evolui para Evoluiu para Verus guerreiro nivel 2
+ 
+Iniciando batalha no Arena de Arles
+Tiberius x Varinius
+Carpoforo x Doctore
+O Gladiador Doctore perdeu a batalha!
+O Gladiador Carpoforo evolui para Evoluiu para Flamma gladiador nivel 3
+ 
+Iniciando batalha no Arena de Capua
+Batiatus x Claudius Glaber
+Spartacus x Gnaeus
+O Gladiador Spartacus perdeu a batalha!
+O Gladiador Gnaeus evolui para Evoluiu para The Egipcio guerreiro nivel 2
+ 
+Iniciando batalha no Arena de Arles
+Claudius Glaber x Tiberius
+Priscus x Oenomaus
+O Gladiador Priscus perdeu a batalha!
+O Gladiador Oenomaus evolui para Evoluiu para Segovax gladiador nivel 3
+ 
+Iniciando batalha no Arena de El Djem
+Tiberius x Varinius
+Carpoforo x Doctore
+O Gladiador Carpoforo perdeu a batalha!
+O Gladiador Doctore evolui para Evoluiu para Barca lendário nivel 2
+ 
